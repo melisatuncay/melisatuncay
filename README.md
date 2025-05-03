@@ -1,13 +1,11 @@
 ## Who's Melisa? 👩🏻‍💻
 Hi 👋🏻 I'm Melisa, a senior **digital game design student**. I've added some of my design tools and coding languages that I used during my education below. 
 
-<img src="https://github.com/user-attachments/assets/859b0514-0e37-4ec3-be5c-35340459fc49" alt="Melisa Octocat" style="height: 200px; width:200px" align="left"/> After my probability & statistics projects, I became interested in 📊 **data analysis**. In this process, I started to develop small-scale research and projects with tools such as **SQL, Python, Power BI, Google Sheets** and to examine and research people's behavioral and cognitive 🧬 movements that develop with technology based on data.
+<img src="https://github.com/user-attachments/assets/859b0514-0e37-4ec3-be5c-35340459fc49" alt="Melisa Octocat" style="height: 200px; width:200px" align="left"/> After my probability & statistics projects, I became interested in 📊 **data analysis**. In this process, I started to develop small-scale research and projects with tools such as **SQL, Python, Power BI, Google Sheets** and to examine and research people's behavioral and cognitive 🧬 movements that develop with technology based on data. You can find my **research** **[here](https://github.com/melisatuncay/Productivity-Pain/blob/main/Social_Media_Survey.ipynb)**.
 
 With 9️⃣ months of experience, I tried to **develop sales strategies** by examining **data** 📉 in the field of logistics.
 
-#### 💼 Portfolio 
-
-You can find my GitHub portfolio of data analysis projects I developed with Python, SQL and Power BI **[here](https://github.com/melisatuncay/Portfolio)**.
+You can find my GitHub 💼 **portfolio**  of data analysis projects I developed with Python, SQL and Power BI **[here](https://github.com/melisatuncay/Portfolio)**.
 
 ***
 <p align="left">
